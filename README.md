@@ -10,7 +10,7 @@ A simple Hexo template with great performance on different devices.
 - install renderers
 
 ```
-git clone https://github.com/icylogic/maupassant-hexo.git themes/maupassant
+git clone https://github.com/mekhi/maupassant-hexo.git themes/maupassant
 npm install hexo-renderer-sass --save
 npm install hexo-renderer-jade --save
 ```
